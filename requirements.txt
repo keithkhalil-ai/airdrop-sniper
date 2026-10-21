@@ -1,0 +1,2 @@
+# Core is stdlib-only. requests is optional (used when available for telemetry).
+requests>=2.31

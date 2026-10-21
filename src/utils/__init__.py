@@ -1,0 +1,1 @@
+# AirdropSniper utilities
